@@ -6,7 +6,10 @@ import random
 import subprocess
 import time
 from typing import Optional
+"""
+MADE BY ISMOILOFF. GOOD LUCK HAVE FUN, THIS IS JUST PROJECT, USE IT ON UR OWN RISKS!
 
+"""
 import nodriver as uc
 
 
